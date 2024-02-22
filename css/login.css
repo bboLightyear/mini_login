@@ -1,13 +1,39 @@
 
 
-.mainHeader{
+.mainHeader_1{
+    border-bottom: 1px solid black;
     width: 100%;
+}
+.mainHeader_2{
+    border-bottom: 1px solid black;
+    border-color: #4788FF;
+    width: 100%;
+}
+.mainHeaderList{
+    width: 1280px;
+    height: 60px;
+    margin: 0 20%;
+    padding: 0 45px;
+}
+.mainHeaderListMenu{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    width: 50px;
+    height: 60px;
+    display: inline-block;
+}
+.aa{
+    display: inline-block;
+    padding: 0 26px;
+}
+.aa_text{
+    text-decoration: none;
+    color: #000;
 }
 .main_wrap{
     width: 1190px;
     display: flex;
     margin: 0 20%;
-
     padding: 0 45px;
 }
 .mainLogoCenter{
