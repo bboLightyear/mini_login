@@ -223,7 +223,6 @@ padding-top: 50px;
     text-align: center;
 
 }
-
 .footer_section_2{
     width: 100%;
     height: 202px;
@@ -232,4 +231,17 @@ padding-top: 50px;
 .inner_section2{
     width: 88px;
     height: 90px;
+}
+.img_box{
+    position: relative;
+}
+.footer_section2_pStyle1{
+    position: relative;
+}
+.footer_section2_pStyle2{
+    position: relative;
+}
+.footer_section2_pStyle1{
+    color: aliceblue;
+    font-size: 13px;
 }
