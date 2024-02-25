@@ -245,3 +245,9 @@ padding-top: 50px;
     color: aliceblue;
     font-size: 13px;
 }
+.footer_img_1{
+    display: flex;
+}
+.footer_section1_LCR_wrap{
+   display: flex;
+}
